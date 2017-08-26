@@ -1,0 +1,14 @@
+{
+ "name": "cordova-fix-blackscreen",
+  "version": "0.0.1",
+  "description": "demo",
+  "cordova": {
+    "id": "com.woodstream.cordova.fix.blackscreen",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [],
+  "author": "demo",
+  "license": "MIT"
+}
