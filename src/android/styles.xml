@@ -3,4 +3,6 @@
         <item name="android:windowBackground">@drawable/screen</item>
         <item name="android:windowNoTitle">true</item>
     </style>
+    <style name="Appwelcome" parent="android:Theme.Translucent.NoTitleBar.Fullscreen">
+    </style>
 </resources>
